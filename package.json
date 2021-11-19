@@ -1,0 +1,31 @@
+{
+  "name": "clients-api",
+  "version": "1.0.0",
+  "description": "This repository contains a homework submission.",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "env": "^0.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "nodemailer": "^6.7.1",
+    "uuid": "^8.3.2",
+    "uuid-apikey": "^1.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs280fa21-homework/homework-8-Muzzi803.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cs280fa21-homework/homework-8-Muzzi803/issues"
+  },
+  "homepage": "https://github.com/cs280fa21-homework/homework-8-Muzzi803#readme"
+}
